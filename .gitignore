@@ -1,0 +1,17 @@
+node_modules/
+.expo/
+dist/
+web-build/
+android/build/
+android/.gradle/
+android/app/build/
+android/local.properties
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+npm-debug.*
+yarn-error.*
+.DS_Store
